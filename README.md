@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Monir Sadat Shahvelayati</h1>
 <h3 align="center">A passionate Computer Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif">
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif">
 
 - ✨ I have a passion for **coding and constantly expanding my knowledge.**
 
